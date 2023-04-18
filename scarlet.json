@@ -29,5 +29,17 @@
 			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
 		"changelog": "- Updated Spotilife to v1.8"
-	}]
+	}],
+        "Emulators":[{
+                "name": "PPSSPP",
+                "version": "1.14.4",
+                "down": "https://p.xx.wtf/Archive/ipa/PPSSPP_v1.14.4.ipa",
+                "category": "Alpha",
+                "description": "PlayStation Portable (PSP) Emulator.",
+                "bundleID": "com.ppsspp.ios",
+                "contact": {
+                    "web": "https://ppsspp.org",
+                    "twitter":"https://twitter.com/ppsspp_emu"
+                }
+        }]
 }
