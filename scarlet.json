@@ -33,6 +33,7 @@
         "Emulators":[{
                 "name": "PPSSPP",
                 "version": "1.14.4",
+                "icon":"https://github.com/hrydgard/ppsspp/raw/master/icons/icon-114.png",
                 "down": "https://p.xx.wtf/Archive/ipa/PPSSPP_v1.14.4.ipa",
                 "category": "Emulators",
                 "description": "PlayStation Portable (PSP) Emulator.",
