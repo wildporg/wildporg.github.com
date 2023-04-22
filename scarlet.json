@@ -60,5 +60,23 @@
                 "description": "Craft your perfect defense from a combination of powerful Monkey Towers and awesome Heroes, then pop every last invading Bloon!",
                 "bundleID": "com.ninjakiwi.bloonstd6",
                 "appstore": "com.ninjakiwi.bloonstd6"
+
+        },
+        {
+                "name": "Warped Kart Racers",
+                "version":"1.31",
+                "down": "https://dwdisc.com/fdl/9c8e38f5-c5a2-480b-8f3f-adeefaf0dc74/Warped-Kart-Racers-v1-31.ipa",
+                "category": "Applications",
+                "description": "Get warped into the ultimate kart racing game - by yourself, or multiplayer - featuring the stars of 20th Television’s hit animated shows: American Dad!, Family Guy, King of the Hill and Solar Opposites! Experience iconic locations and even some surprise ones in your quest for karting glory!
+
+TAKE CONTROL of one of 20 playable characters and beat your friends in riotous races and brutal battles
+
+Master RACING AND BATTLING across 16 maps drawn from fan-favorite episodes
+
+Play an extensive SINGLE PLAYER campaign, or compete in 8-player MULTIPLAYER matches
+
+Complete DAILY CHALLENGES to unlock new CHARACTERS, SKINS, KARTS and CUSTOMIZATIONS",
+                "bundleID": "com.electricsquare.atlas-testflight",
+                "appstore": "com.electricsquare.atlas-testflight"
         }]
 }
