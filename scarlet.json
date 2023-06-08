@@ -5,8 +5,8 @@
 	},
 	"Tweaked": [{
 		"name": "YouTube++",
-		"version": "18.08.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+		"version": "18.14.1",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa,
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
@@ -29,12 +29,20 @@
 			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
 		"changelog": "- Updated Spotilife to v1.8"
+       }, {
+		"name": "Instagram++",
+		"version": "187.0",
+		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
+		"category": "Tweaked Apps",
+		"bundleID": "com.rhino.InstagramApp",
+		"appstore": "com.burbn.instagram"
 	}],
         "Emulators":[{
                 "name": "PPSSPP",
-                "version": "1.14.4",
-                "icon":"https://github.com/hrydgard/ppsspp/raw/master/icons/icon-114.png",
-                "down": "https://p.xx.wtf/Archive/ipa/PPSSPP_v1.14.4.ipa",
+                "version": "1.15.4",
+                "icon":"https://usescarlet.com/Repo/ppsspp.png",
+                "down": "https://p.xx.wtf/Archive/ipa/PPSSPP_v1.15.4-97-geb872b7a8.ipa",
                 "category": "Emulators",
                 "description": "PlayStation Portable (PSP) Emulator.",
                 "bundleID": "com.ppsspp.ios",
@@ -61,14 +69,6 @@
                 "description": "Craft your perfect defense from a combination of powerful Monkey Towers and awesome Heroes, then pop every last invading Bloon!",
                 "bundleID": "com.ninjakiwi.bloonstd6",
                 "appstore": "com.ninjakiwi.bloonstd6"
-        },
-        {
-                "name": "Warped Kart Racers",
-                "version":"1.50",
-                "down": "https://cloclo54.datacloudmail.ru/public/get/81keZCdQtEY91rEfLzEJZW9k5W7vNtoEspZ76AQ63ptJwu6WSEMCp5KEHgjLzchiFHthoB/no/Warped_Kart_Racers_v1.50_OdinTap.ru_.ipa",
-                "category": "Applications",
-                "description": "Get warped into the ultimate kart racing game - by yourself, or multiplayer - featuring the stars of 20th Television’s hit animated shows: American Dad!, Family Guy, King of the Hill and Solar Opposites! Experience iconic locations and even some surprise ones in your quest for karting glory!\n\nTAKE CONTROL of one of 20 playable characters and beat your friends in riotous races and brutal battles\n\nMaster RACING AND BATTLING across 16 maps drawn from fan-favorite episodes\n\nPlay an extensive SINGLE PLAYER campaign, or compete in 8-player MULTIPLAYER matches\n\nComplete DAILY CHALLENGES to unlock new CHARACTERS, SKINS, KARTS and CUSTOMIZATIONS\n",
-                "bundleID": "com.electricsquare.atlas-testflight",
-                "appstore": "com.electricsquare.atlas-testflight"
+
         }]
 }
