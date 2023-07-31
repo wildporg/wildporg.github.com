@@ -35,6 +35,7 @@
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
+		"description":"Instagram with no ads, that lets you download photos and more.",
 		"bundleID": "com.rhino.InstagramApp",
 		"appstore": "com.burbn.instagram"
 	}],
