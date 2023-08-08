@@ -73,8 +73,8 @@
         },
         {
                 "name": "Bloons TD 6",
-                "version":"38.2",
-                "down": "https://archive.org/download/bloons-td-6-38.2-le-ti/BloonsTD6_38.2_LeTi.ipa",
+                "version":"37.2",
+                "down": "https://archive.org/download/bloons-td-6-37.2-le-ti/BloonsTD6_37.2_LeTi.ipa",
                 "category": "Applications",
                 "description": "Craft your perfect defense from a combination of powerful Monkey Towers and awesome Heroes, then pop every last invading Bloon!",
                 "bundleID": "com.ninjakiwi.bloonstd6",
