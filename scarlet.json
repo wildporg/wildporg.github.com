@@ -80,5 +80,14 @@
                 "bundleID": "com.ninjakiwi.bloonstd6",
                 "appstore": "com.ninjakiwi.bloonstd6"
 
-        }]
+        },
+        {
+                "name": "DOOM",
+                "version":"2.7",
+                "down": "https://archive.org/download/doom-classicv-2.7/DOOM%2BClassic%2B%2B%2Bv2.7.ipa",
+                "category": "Applications",
+                "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993),  including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.",
+                "bundleID": "com.idsoftware.Doom",
+                "appstore": "com.idsoftware.Doom"
+	}]
 }
